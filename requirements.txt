@@ -1,0 +1,7 @@
+streamlit
+pandas
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+pyarrow
+bcrypt
