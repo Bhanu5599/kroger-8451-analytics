@@ -3,3 +3,10 @@ headless = true
 port = 8080
 enableXsrfProtection = false
 enableCORS = false
+
+[theme]
+base = "light"
+primaryColor = "#1d4ed8"
+backgroundColor = "#eef3fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1f2937"
